@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: Thread Async
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: admin
+    password: 12345
+
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+
+application:
+  name: Thread Async
+  version: 1.0
